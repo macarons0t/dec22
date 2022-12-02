@@ -1,6 +1,8 @@
 # october29
 this is a test repository for getting started with GitHub
 
+## This text is going to be smaller
+
 # Adding Sentosa Image
 
 YouTube
