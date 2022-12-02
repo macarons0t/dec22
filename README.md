@@ -9,3 +9,5 @@ this is a test repository for getting started with GitHub
 * this is list item 1
 * and this is number 2
 * and yet another one
+
+![] (images.jpg)
